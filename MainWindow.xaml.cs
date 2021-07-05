@@ -23,7 +23,7 @@ namespace SushkovExam
         public MainWindow()
         {
             InitializeComponent();
-            ClassF.ClDataBase.mAD = new DataBaseF.MAD_RecipesExamEntities();
+            ClassF.ClDataBase.mAD = new DataBaseF.MAD_RecipesExamEntities1();
             ClassF.FrameClass.frmMain = FrmMain;
             ClassF.FrameClass.frmMain.Navigate(new PageF.OnePage());
         }

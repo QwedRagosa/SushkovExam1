@@ -9,7 +9,7 @@ namespace SushkovExam.ClassF
 {
     class ClDataBase
     {
-        public static MAD_RecipesExamEntities mAD;
+        public static MAD_RecipesExamEntities1 mAD;
 
     }
 }

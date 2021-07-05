@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "C:\Users\poliv\source\repos\SushkovExam\SushkovExam\DataBaseF\PracticBD.edmx" включено. 
+﻿// Создание кода T4 для модели "C:\Users\VladPC\Source\Repos\SushkovExam1\DataBaseF\Model1.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.
